@@ -8,6 +8,7 @@ The pre-trained model used for training the dataset is FRCNN model trained on CO
 
 # Links
 FRCNN pre-trained model - http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_coco_2018_01_28.tar.gz
+
 Link to dataset - https://www.google.com/url?sa=D&q=https://evp-ml-data.s3.us-east-2.amazonaws.com/ml-interview/openimages-personcar/trainval.tar.gz&ust=1645362840000000&usg=AOvVaw1tmChGtzJmuIkozIAe7fIA&hl=en&source=gmail
 
 # FRCNN MODEL
